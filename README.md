@@ -35,7 +35,7 @@
 
 
 ### Handy Mirror
-- Projet collaboratif en cours, réalisé par passion pour le développement et l'innovation technologique.
+- Projet collaboratif réalisé par passion pour le développement et l'innovation technologique.
 - Développement d'un site e-commerce avec Symfony.
 - Création d'une application mobile avec React Native.
 - Conception d'une API avec Node.js.
