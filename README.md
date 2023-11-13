@@ -24,7 +24,7 @@
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-### Stage - 2mn Digital Services 
+### 2mn Digital Services 
 - Développement d'un ERP avec PHP, MySQL
 - Migration de Symfony vers JavaScript
 - Consulting et conseil auprès de clients
