@@ -51,6 +51,6 @@
 
 ### LANGUES
 - Français - Langue maternelle
-- Anglais - Courant (TOEIC 925)
+- Anglais - Scolaire
 
 ---
