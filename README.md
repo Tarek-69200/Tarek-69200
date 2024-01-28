@@ -24,12 +24,13 @@
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-### 2mn Digital Services 
-- Développement d'un ERP avec PHP, MySQL
-- Migration de Symfony vers JavaScript
-- Consulting et conseil auprès de clients
-- Référencement naturel SEO
-- Création graphique et charte graphique
+### 2mn Digital Services
+
+- Migration d'un ERP de Symfony 4 à NodeJs V20 en utilisant le framework Express avec le développement d'une API REST Full avec les recommandations d'OWASP.
+
+- Recueil des besoins des clients & Consulting dans le carde d'une optimisation des moteurs de recherche (SEO)
+
+- Développement et intégration des maquettes en appliquant la charte graphique des clients Mobil,Tablette, Desktops 
 
 ---
 
