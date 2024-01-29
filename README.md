@@ -9,20 +9,21 @@
 ---
 
 ### COMPÉTENCES TECHNIQUES  
-- Maîtrise des technologies : JavaScript, Node.js, React, Symfony, MySQL, MongoDB
-- Conception d'API REST et modélisation de bases de données complexes
-- Intégration continue et déploiement DevOps
-- Tests unitaires avec Jest, gestion d'authentification et autorisations
+- Maîtrise des technologies : JavaScript, Node.js, React, Symfony, MySQL, MongoDB,
+- Conception d'API REST et modélisation de bases de données complexes,
+- Intégration continue et déploiement DevOps,
+- Tests unitaires avec Jest, PHP Unit,
+- Gestion d'authentification et autorisations avec un système JWT,
 - Accessibilité et référencement naturel SEO
 
 ### GESTION D'ÉQUIPE 
 - Méthodes agiles (Kanban, Scrum)
-- Documentation et modélisation UML
+- Documentation et modélisation UML / MERISE
 - Collaboration avec des équipes pluridisciplinaires
 
 ---
 
-## EXPÉRIENCES PROFESSIONNELLES
+## EXPÉRIENCES PROFESSIONNELLES & PROJETS
 
 ### 2mn Digital Services
 
@@ -30,17 +31,34 @@
 
 - Recueil des besoins des clients & Consulting dans le carde d'une optimisation des moteurs de recherche (SEO)
 
-- Développement et intégration des maquettes en appliquant la charte graphique des clients Mobil,Tablette, Desktops 
+- Développement et intégration des maquettes en appliquant la charte graphique des clients mobile first tablet desktop
 
 ---
 
 
-### Handy Mirror
-- Projet collaboratif réalisé par passion pour le développement et l'innovation technologique.
-- Développement d'un site e-commerce avec Symfony.
-- Création d'une application mobile avec React Native.
-- Conception d'une API avec Node.js.
-- Implémentation de fonctionnalités de reconnaissance faciale avec OpenCV.
+### FAST SERVICES - Application de services restauration
+- Le projet consiste à apporter un gain de temps dans la prise de commande où c'est le client qui scan la table via un QR Code et réalise sois-même la commande.
+  
+- Conception des diagrammes UML/MERISE afin de développer la base de données (SQL) .
+  
+- Réalisation d'un jeu de données afin de tester la base de donnés.
+  
+- Développement d'une API REST en NodeJS avec l'ORM Sequelize.
+  
+- Développement d'une application front-end avec la technologie VueJS et consommation du web service.
+
+---
+
+### Handy Mirror - Miroir connecté (IoT)
+- Projet collaboratif réalisé pour le développement d'un miroir conncté dans le cadre d'assister les personnes atteinte de TDAH.
+  
+- Développement de l'application mobile avec la technologie React Native pour les version Android - iOS .
+  
+- Développement de l'API REST avec la technologie NodeJS afin de faire communiquer l'application avec le miroir connecté.
+  
+- Développement de la fonctionnalitée de reconnaissance faciale avec la librairie OpenCV en Python et application du RGPD.
+  
+- Mise en place d'un système de gestion de module.
 
 ---
 
