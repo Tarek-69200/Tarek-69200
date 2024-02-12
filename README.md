@@ -1,5 +1,5 @@
 # Tarek TAGUINE
-## DÉVELOPPEUR BACK-END
+## DÉVELOPPEUR FULL-STACK
 
 - 📞: `06 73 99 87 42`
 - 📧: [tarek.taguine69@icloud.com](mailto:tarek.taguine9@icloud.com)
