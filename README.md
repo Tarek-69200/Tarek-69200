@@ -23,7 +23,7 @@
 
 #### Back-End
   - PHP 8 / Symfony 7
-  - NodeJS20 / ExpressJS 4
+  - NodeJS 20 / ExpressJS 4
   - Python 3.12 / Flask 3
   - Serveur SGBD MySQL / NOSQL
 
