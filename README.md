@@ -27,7 +27,7 @@
   - Python 3.12 / Flask 3
   - Serveur SGBD MySQL / NOSQL
 
-##### Outils de Développement
+#### Outils de Développement
 - VsCode
 - Codespaces
 - FileZilla
