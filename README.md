@@ -62,6 +62,17 @@
 
 ---
 
+### Bulles de mode 
+- Conception et élaboration d'un ensemble de données sophistiqué en pur JavaScript (Vanilla).
+
+- Développement d'une fonctionnalité innovante exploitant ces données pour créer, de manière aléatoire, des visuels artistiques uniques, en tirant parti des prompts pour solliciter et intégrer les réponses d'un webservice externe, ouvrant ainsi la voie à une infinité de possibilités visuelles.
+  
+- Intégration habile de cette fonctionnalité au sein d'une plateforme Wordpress, transformant un site standard en une vitrine interactive et dynamique.
+
+- Réalisation d'un audit de sécurité complet du site Wordpress, garantissant une protection optimale contre les menaces numériques et assurant une expérience utilisateur sûre et fiable.
+
+---
+
 ## Formations
 
 - Diplôme de Développeur Full Stack (Titre RNCP de niveau 6) - IT-Akademy   
