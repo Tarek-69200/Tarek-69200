@@ -8,13 +8,30 @@
 
 ---
 
-### COMPÉTENCES TECHNIQUES  
-- Maîtrise des technologies : JavaScript, Node.js, React, Symfony, MySQL, MongoDB,
-- Conception d'API REST et modélisation de bases de données complexes,
-- Intégration continue et déploiement DevOps,
-- Tests unitaires avec Jest, PHP Unit,
-- Gestion d'authentification et autorisations avec un système JWT,
-- Accessibilité et référencement naturel SEO
+### COMPÉTENCES TECHNIQUES 
+
+## Front-End
+ - HTML5/CSS3
+ - SveltJS4/ VueJS
+ - React18 / React Native0.73
+
+## Back-End
+  - PHP 8 / Symfony 7
+  - NodeJS20 / ExpressJS 4
+  - Python 3.12 / Flask 3
+  - Serveur SGBD MySQL / NOSQL
+
+### Outils de Développement
+- VsCode
+- Codespaces
+- FileZilla
+- SSH
+- Numbers, Excel
+- VirtualBox - VMWare
+- GitHub
+- Windows 11, 10
+- GNU/Linux (Debian)
+- macOS
 
 ### GESTION D'ÉQUIPE 
 - Méthodes agiles (Kanban, Scrum)
